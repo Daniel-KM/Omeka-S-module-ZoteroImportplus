@@ -1,2 +1,9 @@
-# Omeka-S-module-ZoteroImportplus
-Module omeka s pour importer des références zotero
+# ZoteroImportPlus
+
+Import items, files, notes and tags from Zotero to Omeka S
+
+See the [Omeka S user manual](http://omeka.org/s/docs/user-manual/modules/zoteroimport/) for user documentation.
+
+## Installation
+
+See general end user documentation for [Installing a module](http://omeka.org/s/docs/user-manual/modules/#installing-modules)
